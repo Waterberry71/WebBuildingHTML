@@ -1,0 +1,16 @@
+h1 {
+  color: blueviolet;
+  font-family:'Courier New', 'Courier New', Courier, monospace;
+}
+
+#id1 {
+  color:green;
+  font-family:'Courier New', 'Courier New', Courier, monospace;
+
+}
+
+.redc {
+   color: red;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 24px;
+}
